@@ -23,6 +23,18 @@
         "comida": "pasta",
         "alcohol": "whiskey",
         "img": "https://cdn-icons-png.flaticon.com/512/6073/6073874.png"
+    },
+    {
+        "id": "Naruto22",
+        "pass": "Naruto2",
+        "nombres": "Naruto",
+        "apellidos": "Usumaki",
+        "edad": 22,
+        "email": "naruto@gmail.com",
+        "pelicula": "Naruto shippuden",
+        "comida": "Ramen",
+        "alcohol": "Sake",
+        "img": "https://cdn-icons-png.flaticon.com/512/6073/6073874.png"
     }
    ] 
 }
