@@ -8,6 +8,7 @@
             "edad": 33,
             "salon": 1002,
             "promedio": 0,
+            "perfil": "Administrador",
             "notasMaterias": {
                 "matematicas": 100,
                 "ciencias": 80,
