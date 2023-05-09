@@ -2,6 +2,8 @@
     {
         "nombre": "Pepito",
         "apellidos": "Perez", 
+        "email": "pepito@gmail.com",
+        "pass": "pepito2",
         "identificacion": 21151561,
         "edad": 13,
         "salon": 304,
@@ -17,7 +19,9 @@
     },
     {
         "nombre": "Jose",
-        "apellidos": "Ramirez", 
+        "apellidos": "Ramirez",
+        "email": "jose@gmail.com",
+        "pass": "jose2",
         "identificacion": 345232,
         "edad": 16,
         "salon": 1102,
@@ -34,6 +38,8 @@
     {
         "nombre": "Naruto",
         "apellidos": "Usumaki", 
+        "email": "naruto@gmail.com",
+        "pass": "naruto2",
         "identificacion": 867643,
         "edad": 15,
         "salon": 702,
@@ -50,6 +56,8 @@
     {
         "nombre": "Andres",
         "apellidos": "Rodriguez", 
+        "email": "andres@gmail.com",
+        "pass": "andres2",
         "identificacion": 6546352,
         "edad": 8,
         "salon": 101,
@@ -66,6 +74,8 @@
     {
         "nombre": "Spider",
         "apellidos": "Man", 
+        "email": "spider@gmail.com",
+        "pass": "spider2",
         "identificacion": 32432442,
         "edad": 16,
         "salon": 1002,
@@ -81,7 +91,9 @@
     },
     {
         "nombre": "Bruce",
-        "apellidos": "Wayne", 
+        "apellidos": "Wayne",
+        "email": "bruce@gmail.com",
+        "pass": "bruce2",
         "identificacion": 9999999,
         "edad": 33,
         "salon": 1002,
