@@ -101,6 +101,7 @@
         "email": "bruce@gmail.com",
         "pass": "bruce2",
         "identificacion": 9999999,
+        "perfil": "Administrador",
         "edad": 33,
         "salon": 1002,
         "promedio": 0,
